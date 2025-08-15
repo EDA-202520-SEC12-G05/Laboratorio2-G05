@@ -40,7 +40,7 @@ Los estudiantes editan esta sección para agregar sus nombres, correos electrón
 
 1. Luisa Fernanda Calderón Cañón, <lf.calderon@uniandes.edu.co>, Estudiante 1
 1. Fergye Zhamyra Ortiz Gómez, <fz.ortiz@uniandes.edu.co>, Estudiante 2
-1. Luisa Fernanda Calderón Cañón, <lf.calderon@uniandes.edu.co>, Estudiante 3
+1. Fergye Zhamyra Ortiz Gómez, <fz.ortiz@uniandes.edu.co>, Estudiante 3
 
 [Volver al inicio](#laboratorio-2)
 
