@@ -46,6 +46,7 @@ Los estudiantes editan esta sección para agregar sus nombres, correos electrón
 
 <!-- ABOUT THE PROJECT -->
 
+
 ## Acerca del proyecto
 
 Este repositorio plantilla se usa en los laboratorios del curso de estructuras de datos y algoritmos (#EDA) en Uniandes.
